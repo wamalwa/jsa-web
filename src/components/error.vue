@@ -10,7 +10,7 @@
                             <div class="col-md-12 justify-content-center align-self-center pb-2">
                                 <div class="breadcrumb-content">
                                     <div class="title-section">
-                                        <h1 class="title text-center text-white">404</h1>
+                                        <h1 class="title text-center text-white">Resource not Found</h1>
                                     </div>
                                     <div class="breadcrumb-nav">
                                         <ul class="breadcrumb-link text-center list-unstyled mb-0">
@@ -38,9 +38,11 @@
                         <img src="assets/images/404.png" alt="" class="img-fluid w-100">
                         <div class="mt-4 text-center">
                             <h2 class="title">Sorry Page Not found</h2>
-                            <button class="btn theme-btn mt-4">
-                                Back to Homepage
+                          <a href="/">
+                            <button href="https://test.com" class="btn theme-btn mt-4">
+                              Back to Homepage
                             </button>
+                          </a>
                         </div>
                     </div>
                 </div>

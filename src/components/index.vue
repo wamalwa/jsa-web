@@ -7,7 +7,6 @@
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
-      height:100vh;
     "
   >
     <!-- Start Hero Section -->
@@ -549,6 +548,7 @@ export default {
     },
     initFooterHeight() {
       var footerHeight = $("footer").outerHeight();
+      console.log(footerHeight);
       $(".main-content").css("margin-bottom", footerHeight);
     },
     /*----WOW ANIMATION-----*/

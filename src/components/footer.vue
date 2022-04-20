@@ -8,7 +8,7 @@
                 </a>
                 <ul class="social-links list-unstyled d-flex justify-content-center">
                     <li class="facebook bg-light">
-                        <a href="https://web.facebook.com/staugustineshg" title="Facebook" target="_blank">
+                        <a href="https://facebook.com/staugustineshg" title="Facebook" target="_blank">
                             <i class="mdi mdi-facebook font-20" style="font-size: 30pt; color: #1877f2;"></i>
                         </a>
                     </li>
